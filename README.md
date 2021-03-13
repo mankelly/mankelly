@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mankelly
+- 👋 Hello! I’m @mankelly.
 - 👀 I’m interested in Embedded System Design using Verilog/SystemVerilog.
 - 🌱 I’m currently learning CPU design and VHDL to expand my HDL library.
 - 💞️ I’m looking to collaborate on Embedded Systems projects.
